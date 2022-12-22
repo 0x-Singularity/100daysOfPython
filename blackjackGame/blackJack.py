@@ -1,5 +1,5 @@
 import random
-import art
+import blackjackGame.art as art
 
 def addCardsToDeck(deckBeingAddedTo,numberOfCardsToBeAdded):
             for i in range (numberOfCardsToBeAdded):

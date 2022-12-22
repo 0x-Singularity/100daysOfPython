@@ -1,4 +1,4 @@
-import art
+import blackjackGame.art as art
 
 print(art.logo)
 
