@@ -4,7 +4,6 @@ from art import coffeecup
 #print(coffeecup)
 
 shouldStayOn = True
-moneyInMachine = 0
 profit = 0
 
 def is_resource_sufficient(order_ingredients):
