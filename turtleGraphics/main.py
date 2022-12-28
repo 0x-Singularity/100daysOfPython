@@ -3,6 +3,7 @@ import random
 
 timmy_the_turtle = Turtle()
 
+
 timmy_the_turtle.color("light blue")
 
 number_of_sides = 3
